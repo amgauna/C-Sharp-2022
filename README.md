@@ -6,4 +6,4 @@
 
 ## TypeScript (Tutorial Point) = https://www.tutorialspoint.com/typescript/index.htm
 
-## TypeScript (W3sPoint) = https://www.w3spoint.com/typescript-tutorial
+## TypeScript (W3sPoint) = https://www.w3spoint.com/typescript-tutorial/
