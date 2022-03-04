@@ -1,3 +1,3 @@
-# Lavarel ( Framework PHP )
+# C# / C Sharp
 
-* Tutorial do Lavarel = https://www.w3schools.in/laravel-tutorial/
+* Tutorial do C# = https://www.w3schools.com/cs/index.php
