@@ -28,7 +28,6 @@
 * using System.Linq;
 * using System.Collections.Generic;
 * using System.Net.Http.Headers;
-* using System.Collections.Generic;
 * using System.Threading.Tasks;
 * using System.Net.Http;
 
